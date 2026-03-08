@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<h1 align="center">Siema, tu Masniuuu1ki!👋</h1>
 <!--
 **Masniuuu1ki/masniuuu1ki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
