@@ -13,6 +13,10 @@ Oto kilka moich otwartych projektów. Kliknij w nazwę, aby przejść do kodu:
 * 🔗 **[ms_importscript](https://github.com/Masniuuu1ki/ms_importscript)**
   *Prosty skrypt na przewożenie importowanych pojazdów.*
 
+* ✨ * **Administrator & Developer @ [PentagonowaFreePlay](https://discord.gg/WraM3sXK)**
+
+* ✨ * **Developer @ [BiedaScripts](https://biedascripts.tebex.io/)**
+
 <!--
 **Masniuuu1ki/masniuuu1ki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
