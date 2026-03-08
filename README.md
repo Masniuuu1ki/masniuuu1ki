@@ -1,4 +1,12 @@
 <h1 align="center">Siema, tu Masniuuu1ki!👋</h1>
+
+### 📂 Moje zasoby
+
+Oto kilka moich otwartych projektów. Kliknij w nazwę, aby przejść do kodu:
+
+* 🔗 **[ms_minigame](https://github.com/Masniuuu1ki/ms_minigame)**
+  *Prosta minigra na zapamiętywanie odpowiednich kwadracików.*
+
 <!--
 **Masniuuu1ki/masniuuu1ki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
