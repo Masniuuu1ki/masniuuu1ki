@@ -1,8 +1,13 @@
-<h1 align="center">Siema, tu Masniuuu1ki!👋</h1>
+<h1 align="center">Siema, tu Masniuuu1ki! 👋</h1>
 
-### 📂 Moje zasoby
+### 📡 Moje projekty
 
-Oto kilka moich otwartych projektów. Kliknij w nazwę, aby przejść do kodu:
+* ✨ **Administrator & Developer @ [PentagonowaFreePlay](https://discord.gg/WraM3sXK)**
+* 🛒 **Developer @ [BiedaScripts](https://biedascripts.tebex.io/)**
+
+### 📂 Moje otwarte zasoby
+
+Oto kilka moich publicznych projektów. Kliknij w nazwę, aby przejść do kodu:
 
 * 🔗 **[ms_minigame](https://github.com/Masniuuu1ki/ms_minigame)**
   *Prosta minigra na zapamiętywanie odpowiednich kwadracików.*
@@ -12,10 +17,6 @@ Oto kilka moich otwartych projektów. Kliknij w nazwę, aby przejść do kodu:
   *Prosty skrypt na urząd pracy.*
 * 🔗 **[ms_importscript](https://github.com/Masniuuu1ki/ms_importscript)**
   *Prosty skrypt na przewożenie importowanych pojazdów.*
-
-* ✨ **Administrator & Developer @ [PentagonowaFreePlay](https://discord.gg/WraM3sXK)**
-
-* ✨ **Developer @ [BiedaScripts](https://biedascripts.tebex.io/)**
 
 <!--
 **Masniuuu1ki/masniuuu1ki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
