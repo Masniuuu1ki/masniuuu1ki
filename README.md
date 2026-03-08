@@ -6,6 +6,12 @@ Oto kilka moich otwartych projektów. Kliknij w nazwę, aby przejść do kodu:
 
 * 🔗 **[ms_minigame](https://github.com/Masniuuu1ki/ms_minigame)**
   *Prosta minigra na zapamiętywanie odpowiednich kwadracików.*
+* 🔗 **[ms_minigame2](https://github.com/Masniuuu1ki/ms_minigame2)**
+  *Prosta minigra na wybieranie liczb od 1 do 10.*
+* 🔗 **[ms_jobcenter](https://github.com/Masniuuu1ki/ms_jobcenter)**
+  *Prosty skrypt na urząd pracy.*
+* 🔗 **[ms_importscript](https://github.com/Masniuuu1ki/ms_importscript)**
+  *Prosty skrypt na przewożenie importowanych pojazdów.*
 
 <!--
 **Masniuuu1ki/masniuuu1ki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
