@@ -23,6 +23,9 @@ Oto moje publiczne zasoby udostępnione dla społeczności:
 * 🔗 **[ms_importscript](https://github.com/Masniuuu1ki/ms_importscript)**
   > System transportu i logistyki importowanych pojazdów.
 
+* 🔗 **[bs-interactions](https://github.com/Masniuuu1ki/bs-interactions)**
+  > Skrypt na interakcje 3D
+  
 ---
 
 ### 🛠️ Technologie & Narzędzia
