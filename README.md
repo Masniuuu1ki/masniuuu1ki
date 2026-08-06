@@ -2,7 +2,7 @@
 
 ### 📡 Główna działalność
 
-* ✨ **Administrator & Developer** @ [PentagonowaFreePlay](https://discord.gg/WraM3sXK)
+* ✨ **Administrator & Developer** @ [PentagonowaFreePlay](dc.pentagonowa.pl)
 * 🛒 **Developer** @ [BiedaScripts](https://biedascripts.tebex.io/)
 
 ---
