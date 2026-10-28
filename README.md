@@ -13,7 +13,7 @@ Tworzę skrypty i UI pod serwery FiveM.
 
 - <img src="https://api.iconify.design/lucide/shield.svg?color=%23a1a1aa" width="15" height="15" align="absmiddle" /> &nbsp;**Administrator & Developer** @ [PENTAGONOWA](https://dc.pentagonowa.pl)
 - <img src="https://api.iconify.design/lucide/shopping-bag.svg?color=%23a1a1aa" width="15" height="15" align="absmiddle" /> &nbsp;**Developer** @ [BiedaScripts](https://biedascripts.tebex.io/)
-
+- <img src="https://api.iconify.design/lucide/server.svg?color=%23a1a1aa" width="15" height="15" align="absmiddle" /> &nbsp;**Developer** @ [GeorgiaStateRP](https://discord.gg/PcdASJgbwX)
 ---
 
 ### <img src="https://api.iconify.design/lucide/folder.svg?color=%23a1a1aa" width="18" height="18" align="absmiddle" /> &nbsp;Moje projekty Open-Source
