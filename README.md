@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://r2.fivemanage.com/eKr2Zz5vh9Mo04Ar3OZ0i/header_github.png" width="100%" alt="Banner" />
+  <img src="https://i.postimg.cc/hPnqpPk2/header-github.png width="100%" alt="Banner" />
 </div>
 
 <br />
@@ -36,6 +36,6 @@ Tworzę skrypty i UI pod serwery FiveM.
 
 <div align="center">
   <a href="https://biedascripts.tebex.io/">
-    <img src="https://r2.fivemanage.com/eKr2Zz5vh9Mo04Ar3OZ0i/footer_github.png" width="100%" alt="Footer Banner" />
+    <img src="https://i.postimg.cc/zXN10XsF/footer-github.png" width="100%" alt="Footer Banner" />
   </a>
 </div>
